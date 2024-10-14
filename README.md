@@ -7,4 +7,4 @@
 # 6. Add comments to explain the code
 # 7. Add a docstring to explain the purpose of the code
 
-This project was created from local system.
+This project was created from local system by Mihir Kumar Meher.
